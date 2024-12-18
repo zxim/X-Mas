@@ -1,0 +1,11 @@
+Model Information:
+* title:	Christmas Village
+* source:	https://sketchfab.com/3d-models/christmas-village-901f0262183248b9be39942dc4cbeaaa
+* author:	pes04 (https://sketchfab.com/pes04)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Christmas Village" (https://sketchfab.com/3d-models/christmas-village-901f0262183248b9be39942dc4cbeaaa) by pes04 (https://sketchfab.com/pes04) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
